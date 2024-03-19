@@ -3,9 +3,21 @@ p {
 }
 
 body {
-  color: black;
+  color: blue;
 }
 
 h1 {
-  color: yellow;
+  color: blue;
+}
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: blue;
+}
+
+body {
+  background-color: Tomato;
 }
