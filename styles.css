@@ -3,7 +3,16 @@ h2 {text-align: center;}
 h3 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}
+a {text-align: center;}
 
+@font-face {
+  font-family: amiibo-font;
+  src: url(Bauhaus 93 Regular.ttf);
+}
+
+div {
+  font-family: amiibo-font;
+}
 
 p {
   text-align: center;
@@ -27,4 +36,20 @@ h3 {
 
 body {
   background-color: Tomato;
+}
+
+h1 {
+  font-family: amiibo-font;
+}
+
+h2 {
+  font-family: amiibo-font;
+}
+
+h3 {
+  font-family: amiibo-font;
+}
+
+a {
+  font-family: amiibo-font;
 }
