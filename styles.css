@@ -1,3 +1,8 @@
+@font-face {
+  font-family: amiibo-font;
+  src: url(idk.ttf);
+}
+
 h1 {text-align: center;}
 h2 {text-align: center;}
 h3 {text-align: center;}
@@ -5,10 +10,7 @@ p {text-align: center;}
 div {text-align: center;}
 a {text-align: center;}
 
-@font-face {
-  font-family: amiibo-font;
-  src: url(Bauhaus 93 Regular.ttf);
-}
+
 
 div {
   font-family: amiibo-font;
